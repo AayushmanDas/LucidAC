@@ -1,0 +1,20 @@
+Item,Designator,Qty,Value / Description,Footprint / Package,Type
+1,BM1,1,1S LiPo Battery Connector,Molex_PicoBlade_53398-0271_1x02-1MP_P1.25mm_Vertical,Connector
+2,BM2,1,TP4056 Li-Ion Charger Module (R_PROG modified to 2k7R),Custom_Footprints:TP4056,Module
+3,BM3,1,ME6211C33M5G (3.3V 500mA LDO),Package_TO_SOT_SMD:SOT-23-5,IC / LDO
+4,BZ1,1,Active Buzzer (5V/3.3V),Buzzer_Beeper:Buzzer_12x9.5RM7.6,Audio / THT
+5,"C1, C2, C5",3,10µF Ceramic Capacitor,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,SMD (1206)
+6,C3,1,100µF Electrolytic Capacitor,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,THT Radial
+7,C4,1,100nF Ceramic Disc Capacitor,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,THT Disc
+8,D1,1,TX1 (940nm High-Power IR LED),LED_THT:LED_D5.0mm_IRGrey,Opto / THT 5mm
+9,D2,1,D_Schottky (Flyback Protection Diode),Diode_THT:D_DO-201AD_P15.24mm_Horizontal,Diode / THT
+10,ENC1,1,Rotary Encoder with Push Switch (HW-040 / EC11),Custom_Footprints:HW-040_Rotary_Encoder,Module / THT
+11,MCU1,1,ESP32-C3 SuperMini,Custom_Footprints:ESP32_C3_SuperMini,MCU Board (Berg Sockets)
+12,OLED1,1,"0.96"" I2C OLED Display (SSD1306 128x64)",Custom_Footprints:OLED_0.96,Display Module
+13,"Q1, Q2",2,2N2222 NPN BJT Switching Transistor,Package_TO_SOT_THT:TO-92_Inline,Transistor (TO-92)
+14,R1,1,27R Carbon/Metal Film Resistor,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,THT Axial
+15,"R2, R3",2,1kR Carbon/Metal Film Resistor,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,THT Axial
+16,R4,1,150R Carbon/Metal Film Resistor,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,THT Axial
+17,RX1,1,TSOP1838 IR Receiver (38kHz Demodulator),OptoDevice:Vishay_MINICAST-3Pin,Sensor / THT
+18,SW1,1,SPDT Slide / Power Switch,Connector_Wire:SolderWire-0.75sqmm_1x03_P4.8mm_D1.25mm_OD2.3mm,Switch / Wire Pad
+19,SW_BTN1,1,Tactile Push Button (6x6mm),Button_Switch_THT:SW_PUSH_6mm,Switch / THT
