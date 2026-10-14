@@ -1,0 +1,23 @@
+# PlatformIO & Build Artifacts
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+
+# KiCad Temp & Backup Files
+*-backups/
+*.kicad_prb
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.bak
+*_autosave-*
+*.tmp
+*.lck
+
+# OS & CAD Metadata
+.DS_Store
+Thumbs.db
+*.step.bak
+*.dwl
+*.dwl2
