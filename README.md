@@ -85,7 +85,7 @@ The firmware is developed using **PlatformIO**.
 
 ## Bill of Materials (BOM)
 
-A complete CSV list of components, footprint packages, and reference designators can be found in [`hardware/JU_IR_Clean/BOM.csv`](hardware/JU_IR_Clean/BOM.csv).
+A complete CSV list of components, footprint packages, and reference designators can be found in [`hardware/BOM.csv`](hardware/BOM.csv).
 
 ---
 
